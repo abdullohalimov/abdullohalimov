@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdullohalimov
 - 👀 I’m interested in Android apps Development
-- 🌱 I’m currently learning DevOps and anything related with him)
+- 🌱 I’m currently learning DevOps and anything related with this)
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me? Write to abdullohalimov@yandex.com or @JustRedDeveloper on Telegram!
 
